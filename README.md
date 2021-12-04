@@ -1,4 +1,4 @@
-# Frontrunning Pancakeswap Sniper Bot For Mempool Snipping. New and Improved
+# Frontrunning Pancakeswap Sniper Bot For Mempool Snipping. New and Improved Version
 The PancakeSwap Bot Front-runs (specific trade volumes, slippage and gas price) transactions by placing a buy order on the same block and at the same time by setting a higher gas price.
 
 The bot scans the mempool for pending transactions several times every second. Whenever the bot sees the AddLiqudity event of your token, it will front-run the token, so you will be the first one who is able to get the token.
@@ -8,17 +8,17 @@ The bot will come with an 30-page instruction guide and an instruction video for
 If you want to purchase the bot contact me on discord **saurbh#4266** OR **Telegram: <a href="https://t.me/saurbh99">@saurbh99</a>** . You can directly purchase the bot by sending  **0.4 BNB** to this address **0x2ffdee5ad28735839ead1e4848cfcae7e64ea839**  USE **BEP20** Network Only 
 
 ## Key Features 
-1)Snipes in mempool.
-2)Buy, approve, sell in the same block as liquidity.
-3)DxSale sniper.
-4)Pinksale sniper.
-5Autodetect whenever trading is enabled
-6)Save mode ( honeypot check before buy)
-7)Great error handling
-8)Automatic gas settings.
-9)Snipes antibot tokens.
-10)Timer before buying.
-11)Honeypot / Ruggpull checker.
+- Snipes in mempool.
+- Buy, approve, sell in the same block as liquidity.
+- DxSale sniper.
+- Pinksale sniper.
+- Autodetect whenever trading is enabled
+- Save mode ( honeypot check before buy)
+- Great error handling
+- Automatic gas settings.
+- Snipes antibot tokens.
+- Timer before buying.
+- Honeypot / Ruggpull checker.
 ## Bot Settings
 ![config](https://user-images.githubusercontent.com/92146797/144708875-824a790b-dab2-4aa3-aa81-32a195fbb04a.PNG)
 
@@ -33,7 +33,7 @@ if you filling in 5, the bot will do 5 buy orders
 - **recipient**: Fill in your wallet hash, I have explained how to get this on page 8.
 - **Mnemonic (now privatekey)**: Fill in your wallet privatekey
 
-## Other bot setup and settings are explained in PDF guide
+### Other bot setup and settings are explained in PDF guide
 
 ## Troubleshot
 there are some reason if your tx failed :
