@@ -5,7 +5,7 @@ The bot scans the mempool for pending transactions several times every second. W
 
 The bot will come with an 30-page instruction guide and an instruction video for easy use.
 ## Buying Information
-If you want to purchase the bot contact me on discord **saurbh#4266** OR **Telegram: <a href="https://t.me/saurbh99">@saurbh99</a>** . You can directly purchase the bot by sending  **0.4 BNB** to this address **0x2ffdee5ad28735839ead1e4848cfcae7e64ea839**  USE **BEP20** Network Only 
+If you want to purchase the bot contact me on **Telegram: <a href="https://t.me/saurbh99">@saurbh99</a>** . You can directly purchase the bot by sending  **0.4 BNB** to this address **0x2ffdee5ad28735839ead1e4848cfcae7e64ea839**  USE **BEP20** Network Only 
 
 ## Key Features 
 - Snipes in mempool.
